@@ -4,7 +4,7 @@ Técniques d'edició i producció
 [figures geométriques](formes.zip)
 
 ## Practica 2. 3d
-[3d](nom.zip)
+[3d](escenari_animals.zip)
 
 ## Práctica 3. Tótem
 [tótem](nom.zip)
