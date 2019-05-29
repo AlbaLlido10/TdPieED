@@ -7,7 +7,7 @@ Técniques d'edició i producció
 [3d](escenari_animals.zip)
 
 ## Práctica 3. Tótem
-[tótem](nom.zip)
+[tótem](totem.zip)
 
 ## Práctica 4. Funy Furm
 [Funy Furm](funy_furm.zip)
