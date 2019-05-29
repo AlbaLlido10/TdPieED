@@ -10,4 +10,4 @@ Técniques d'edició i producció
 [tótem](nom.zip)
 
 ## Práctica 4. Funy Furm
-[Funy Furm](nom.zip)
+[Funy Furm](funy_furm.zip)
