@@ -13,4 +13,4 @@ Técniques d'edició i producció
 [Funy Furm](funy_furm.zip)
 
 ## Práctica final. Cartell
-[cartell](arxius_cartell.zip)
+[cartell](arxius_cartell_easd.zip)
